@@ -7,12 +7,12 @@
     "array",
     "index",
     "sort",
-    "stable"],
+    "stable"
+  ],
   "homepage": "https://github.com/joaonuno/find-insert-index-js",
   "repository": {
     "type": "git",
     "url": "git://github.com/joaonuno/find-insert-index-js.git"
-
   },
   "license": "MIT",
   "author": "João Nuno Silva <jnss81@gmail.com> (http://jnuno.com)",
